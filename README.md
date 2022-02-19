@@ -1,2 +1,2 @@
 # feedback
-GooglePlay Feedback
+App Feedback
